@@ -1,0 +1,29 @@
+body {
+    background-color:#ecf0f1;
+    padding: 12px;
+    font-family: arial;
+    font-size: 18px;
+}
+h1,h2{
+    text-align: center;
+}
+
+h2{
+    text-transform: uppercase;
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+li {
+    list-style-type:none;
+    color:white;
+    background-color: #9B59B6;
+    padding:12px;
+    margin-bottom: 12px;
+    margin-left: 12px;
+    margin-right: 12px;
+    
+}
+
+
+
