@@ -22,7 +22,7 @@ li:hover{
 
 li.feito{
     background-color: #27ae60;
-    background-image: url('feito.png');
+    background-image: url('checkbox.png');
     
 }
 
@@ -33,7 +33,7 @@ a{
     color: #fff;
     text-decoration: none;
     display: block;
-    background-image: url('seta.png');
+    background-image: url('next2.png');
     background-repeat: no-repeat;
     background-position: right center;
     font-family: 'Oswald', sans-serif;

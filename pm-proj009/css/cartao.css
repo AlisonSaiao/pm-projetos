@@ -2,7 +2,7 @@
     height: 100px;
     width: 55%;
 
-    
+
 }
 
 .cartao .wallet h2 {
@@ -10,29 +10,31 @@
     font-size: 16px;
     margin-left: 30px;
     margin-top: 20px;
-    
+
 }
+
 .cartao .wallet ul {
     display: flex;
     justify-content: center;
-    
-    
+
+
 }
 
 .cartao .wallet li {
     list-style: none;
     padding: 15px;
     margin: 10px;
-    
-    
+
+
 }
 
 .cartao .wallet li:hover {
     background-color: #f5f9fd;
     box-shadow: inset 0 0 2px #d1e3f5;
     border-radius: 4px;
-    
+
 }
+
 .cartao .wallet samll {
     display: block;
     text-align: center;
@@ -43,16 +45,16 @@
     text-decoration: none;
     color: #c6c6c6;
     font-size: 12px;
-    
+
 }
 
 
 .cartao .newCard fieldset {
     border: none;
     text-align: center;
-    
-    
-    
+
+
+
 }
 
 .cartao .newCard legend {
@@ -73,7 +75,7 @@
     padding-left: 20px;
     border: 1px solid #dfdfdf;
     border-radius: 2px;
-    
+
 }
 
 .cartao .newCard input.data {
@@ -83,7 +85,7 @@
 
 .cartao .newCard input.cvc {
     width: 86px;
-    
+
 }
 
 .cartao ::-webkit-input-placeholder {
@@ -102,16 +104,16 @@
     border: none;
     color: #fff;
     border-radius: 2px;
-    
-    
-    
+
+
+
 }
 
 
 .cartao .newCard label input {
     width: 15px;
-    height: 15px;    
-    
+    height: 15px;
+
 }
 
 .cartao .newCard label {
@@ -119,6 +121,5 @@
     margin-left: 35px;
     color: #777879;
     font-size: 14px;
-    
-}
 
+}

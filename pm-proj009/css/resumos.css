@@ -1,9 +1,9 @@
-.resumos{
+.resumos {
     width: 45%;
     background-color: #ebebeb;
     padding: 10px 10px 10px 10px;
     border-left: 1px solid #deddde;
-    
+
 }
 
 .resumos .produtos li {
@@ -18,14 +18,14 @@
     border: none;
 }
 
-.resumos .produtos .detalhes{
+.resumos .produtos .detalhes {
     width: 80%;
     margin-left: 10px;
     display: flex;
     flex-direction: column;
 }
 
-.resumos .produtos li .detalhes h3{
+.resumos .produtos li .detalhes h3 {
     color: #777879;
     font-size: 12px;
     font-family: 'muliextrabold';
@@ -34,7 +34,7 @@
 }
 
 
-.resumos .produtos li .detalhes small{
+.resumos .produtos li .detalhes small {
     font-size: 10px;
     font-family: 'muliextralight_italic';
     color: #4a4a4a;
@@ -43,21 +43,21 @@
 }
 
 
-.resumos .produtos li .detalhes span{
+.resumos .produtos li .detalhes span {
     color: #9c9c9c;
     font-size: 10px;
     font-family: 'muliextrabold';
 
-    
+
 }
 
 
-.resumos .produtos li .preco{
+.resumos .produtos li .preco {
     color: #777879;
     font-size: 12px;
     font-family: 'muliextrabold';
 
-    
+
 }
 
 .resumos table {
@@ -69,18 +69,18 @@
     margin-top: 68px;
 }
 
-.resunos table th{
+.resumos table th {
     text-align: left;
-    font-size: 20px;
+    font-size: 12px;
 }
 
-.resunos table td {
+.resumos table td {
     text-align: right;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
 }
 
-.resumos table tfoot *{
+.resumos table tfoot * {
     border-top: 1px solid #d6d4d7;
     font-family: 'muliextrabold';
     padding-top: 10px;
